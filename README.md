@@ -22,7 +22,7 @@ Part II:
   - Signal Processing
   - Ordinary Differential Equations
   - Pandas Crash Course
-  - Gotchas and Optmization
+  - Gotchas and Optimization
 
 ### Required Materials are one of the following:
 
